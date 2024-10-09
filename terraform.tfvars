@@ -1,0 +1,5 @@
+yandex_token     = ""
+cloud_id         = ""
+folder_id        = ""
+public_key_path  = "/home/user/.ssh/yandex.cloud.pub"
+private_key_path = "/home/user/.ssh/yandex.cloud"
